@@ -1,0 +1,28 @@
+ *{
+      box-sizing: border-box;
+    }
+    ul li{
+      background-color: white;
+      color: black;
+      border: 1px solid black;
+    }
+
+    .col-xs-12{
+      height: 1000px;
+      background-color: rgb(204, 204, 179);
+    }
+
+    #myblock{
+      margin: 20px; 
+    }
+
+    #mytitle{
+      font-family: 'Roboto', sans-serif;
+      font-size: 40px;
+    }
+
+    #mytext{
+      font-family: 'Roboto', sans-serif;
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 20px;
+    }
